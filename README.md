@@ -33,6 +33,7 @@ Dynamic programming is a technique used in computer science to solve a certain c
 - Some programming experience, preferably in Python - but you can learn on the way too
 - The QC framework we will use is [Qiskit](https://qiskit.org/)
 - Participants can also pick a different framework of their choice - [here is a list](https://github.com/qosf/awesome-quantum-software#quantum-full-stack-libraries)
+- Note that a knowledge of quantum mechanics is NOT required
 
 ### Expectations and Deliverables 
 - Clean, readable code
@@ -40,7 +41,7 @@ Dynamic programming is a technique used in computer science to solve a certain c
 - Enthusiasm!
 
 ### Mentor
-[Ayushi Dubal](ayushidubal.github.io)
+[Ayushi Dubal](https://ayushidubal.github.io/)
 
 
 ### References
